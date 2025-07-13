@@ -1,6 +1,6 @@
 # Smart-Lens
 
-## This is a Smart Lens that is specially designed for blind people
+## Smart Lens that is specially designed for blind people
 
 ### components used
   1). Ultrasonic sensor
